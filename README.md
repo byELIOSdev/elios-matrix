@@ -1,14 +1,13 @@
 # Elios Matrix — canal de actualizaciones
 
-Repo público **solo para releases/updates** (no es el código fuente completo).
+Repo público **solo para releases/updates**.
 
-## Cómo publicar una versión nueva
+## Versionado
 
-1. Sube el instalador/zip en **Releases** (tag `vX.Y.Z`).
-2. Actualiza `updates/manifest.json`:
-   - `version` = misma versión (ej. `1.0.1`)
-   - `downloadUrl` = URL del asset o de la release
-   - `notes` = changelog corto
-3. Actualiza `updates/newest.txt` con la misma versión (una línea).
+Formato **major.minor**: `1.0`, `1.1`, `2.0` (sin tercer número).
 
-La app consulta `updates/manifest.json` al arrancar y al pulsar **Update**.
+## Cómo publicar
+
+1. Sube el instalador/zip en **Releases** (tag `v1.1`).
+2. Actualiza `updates/manifest.json` (`version`, `downloadUrl`, `notes`).
+3. Actualiza `updates/newest.txt` con la misma versión.
