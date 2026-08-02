@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "name": "Elios Matrix",
   "downloadUrl": "https://github.com/ELIOS-Cloude/elios-matrix/releases/latest",
   "notes": "Auto-update in-place. Sube un .zip en Releases al publicar 1.1+."
