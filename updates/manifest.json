@@ -1,6 +1,6 @@
 {
-  "version": "1.2",
+  "version": "1.3",
   "name": "Elios Matrix",
-  "downloadUrl": "https://github.com/ELIOS-Cloude/elios-matrix/releases/download/v1.2/ELIOS.MATRIX.1.2.zip",
-  "notes": "ELIOS MATRIX 1.2 — whitelist HidHide, preflight post-cloak, Clean Input seguro, sanitize HidHide Client, health-check Input Delay."
+  "downloadUrl": "https://github.com/ELIOS-Cloude/elios-matrix/releases/download/v1.3/ELIOS.MATRIX.1.3.zip",
+  "notes": "ELIOS MATRIX 1.3 — Xbox One estable, whitelist HidHide, puente con señal, health-check real, Clean Input seguro, build sin EliosMatrix.exe viejo."
 }
