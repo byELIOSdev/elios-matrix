@@ -1,6 +1,6 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "name": "Elios Matrix",
-  "downloadUrl": "https://github.com/ELIOS-Cloude/elios-matrix/releases/download/v1.1/ELIOS.MATRIX.1.1.zip",
+  "downloadUrl": "https://github.com/ELIOS-Cloude/elios-matrix/releases/download/v1.1/ELIOS.MATRIX.1.2.zip",
   "notes": "ELIOS MATRIX 1.1 — Controllers DS4/DualSense/Edge, remapper DSMatrix, passthrough 2 kHz, lightbar y estabilidad ViGEm/HidHide."
 }
