@@ -1,6 +1,6 @@
 {
-  "version": "3.4.1",
-  "downloadUrl": "https://github.com/byELIOSdev/elios-matrix/releases/download/v3.4.1/ELIOS.MATRIX.3.4.1.zip",
-  "sha256": "70b9f21907488a0040ab94fc5f4e56519bca2b1456caa9778ed22cb871a8462b",
-  "notes": "ELIOS MATRIX 3.4.1 - Update in-place. Persistencia + boton Update. Motor/modelos en Supabase."
+    "version":  "3.4.2",
+    "downloadUrl":  "https://github.com/byELIOSdev/elios-matrix/releases/download/v3.4.2/ELIOS.MATRIX.3.4.2.zip",
+    "sha256":  "3a7b3cf3e46d20dd958ea1d79fd002fb016246686cb4dd6a8f81591abd91cc7c",
+    "notes":  "ELIOS MATRIX 3.4.2"
 }
