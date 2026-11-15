@@ -1,6 +1,6 @@
 {
-  "version": "1.8",
-  "name": "Elios Matrix",
-  "downloadUrl": "https://github.com/ELIOS-Cloude/elios-matrix/releases/download/v1.8/ELIOS.MATRIX.1.8.zip",
-  "notes": "ELIOS MATRIX 1.8 — Stick derecho más rápido con Aim ON (humano 1:1, anti-recoil ya no frena flicks), curvas LS/RS en Settings, remap en caliente antes de IA/scripts, hub 2 kHz intacto."
+  "version": "3.4.1",
+  "downloadUrl": "https://github.com/byELIOSdev/elios-matrix/releases/download/v3.4.1/ELIOS.MATRIX.3.4.1.zip",
+  "sha256": "70b9f21907488a0040ab94fc5f4e56519bca2b1456caa9778ed22cb871a8462b",
+  "notes": "ELIOS MATRIX 3.4.1 - Update in-place. Persistencia + boton Update. Motor/modelos en Supabase."
 }
