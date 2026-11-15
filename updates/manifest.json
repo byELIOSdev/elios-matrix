@@ -1,6 +1,6 @@
 {
-    "version":  "3.4.2",
-    "downloadUrl":  "https://github.com/byELIOSdev/elios-matrix/releases/download/v3.4.2/ELIOS.MATRIX.3.4.2.zip",
-    "sha256":  "3a7b3cf3e46d20dd958ea1d79fd002fb016246686cb4dd6a8f81591abd91cc7c",
-    "notes":  "ELIOS MATRIX 3.4.2"
+  "version": "3.4.3",
+  "downloadUrl": "https://github.com/byELIOSdev/elios-matrix/releases/download/v3.4.3/ELIOS.MATRIX.3.4.3.zip",
+  "sha256": "32de316ef85c98d773dbb1bddc20b263886e1f4ae3e0f199ef0ed1d313e1ea7d",
+  "notes": "ELIOS MATRIX 3.4.3"
 }
